@@ -83,7 +83,7 @@ Your have added {} accounts 👥
 Whats your  reason: select 1-9 👇 
 """
 
-    SEND_NO_OF_REPORT_MSG = """
+    SEND_NO_OF_REPORT_MSG = "100"
 ❪ SELECT NUMBER OF REPORTS 👤 ❫
 
 **Send Number of reports which you want to report to this @{}**
